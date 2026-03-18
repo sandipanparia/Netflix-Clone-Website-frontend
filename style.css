@@ -13,7 +13,7 @@
 }
 
 .main {
-    background-image: url("assets/img/bg.jpg");
+    background-image: url("bg.jpg");
     background-position: center center;
     background-size: max(1000px, 100vw);
     background-repeat: no-repeat;
